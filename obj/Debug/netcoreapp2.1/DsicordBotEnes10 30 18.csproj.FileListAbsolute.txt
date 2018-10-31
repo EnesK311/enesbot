@@ -1,0 +1,11 @@
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\bin\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.deps.json
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\bin\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.runtimeconfig.json
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\bin\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.runtimeconfig.dev.json
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\bin\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.dll
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\obj\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.csprojAssemblyReference.cache
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\obj\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.csproj.CoreCompileInputs.cache
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\obj\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.AssemblyInfoInputs.cache
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\obj\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.AssemblyInfo.cs
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\bin\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.pdb
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\obj\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.dll
+C:\Users\enesk\OneDrive\Bureaublad\Discord Bot\DsicordBotEnes10 30 18\DsicordBotEnes10 30 18\obj\Debug\netcoreapp2.1\DsicordBotEnes10 30 18.pdb
