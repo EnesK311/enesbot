@@ -39,7 +39,7 @@ namespace DsicordBotEnes10_30_18
             Client.Ready += Client_Ready;
             Client.Log += Client_Log;
 
-            string Token = "NTA2ODA0OTA2MDAzMjY3NTg0.DrnfMg.qssMvA2286JqH-vfWMi5wQXpe9Y";
+            string Token = "";
             await Client.LoginAsync(TokenType.Bot, Token);
             await Client.StartAsync();
 
